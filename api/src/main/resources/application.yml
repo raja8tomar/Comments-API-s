@@ -1,0 +1,10 @@
+spring:
+    datasource:
+      url: //please paste your datasource url here
+      username: //please paste your datasource username here
+      password: //please paste your datasource password here
+
+    jpa: 
+      hibernate:
+       ddl-auto: update
+      show-sql: true
