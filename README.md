@@ -1,1 +1,1 @@
-# please add the following parameter in application.yml file before running the project.
+# please add the following parameter given in application.yml file before running the project.
